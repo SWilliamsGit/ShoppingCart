@@ -1,7 +1,4 @@
 /******************************************************************************
-Skyler Williams CSC210
-10/30/22
-Shopping Cart Application!
 This program creates an application that allows the user to "purchase" clothing
 items: shirts, pants, and shoes. The program also allows the user to choose various
 attributes of the items, and offer discounts on the items.
